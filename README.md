@@ -4,7 +4,7 @@ Algoritmen er en klasse, der instantieres ved at genere et klasseobjekt, der tag
 
 ----
 
-# class GeneticAlgorithm(self, generationSize, DNAsize=, mutationRate=)
+class GeneticAlgorithm(self, generationSize, DNAsize=, mutationRate=)
 
 ----
 
@@ -13,7 +13,7 @@ Funktionerne kaldes automatisk ved at bruge
 
 ----
 
-# mygen.selectiveProcess()
+mygen.selectiveProcess()
 
 ----
 
