@@ -98,4 +98,5 @@ class GeneticAlgorithm():
                         strand = np.random.choice(genotype) 
             return meldedDNA
 
+       crossover_mutation()
        
