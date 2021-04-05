@@ -1,4 +1,10 @@
 # genetic-algorithm
+Den genetiske algoritme skal modellere en fysisk evolutionær proces ved at chancen for videreførelse af gener til næste generation er 
+proportionel med distansen fra et mål. Målet kan i denne instans repræsentere en vilkårlig parameter, men for at kunne modellere udviklingen
+i PyGame er en fysisk distance anvendt. 
+Algoritmen er heuristisk og grådig, og der ligges derfor vægt på at populutionen ikke nødvendigvis udvikler sig mest optimalt over få generationer
+men at der med tid vil opstå en naturlig favorisering af sprites med favourable træk.
+
 
 Algoritmen er en klasse, der instantieres ved at genere et klasseobjekt, der tager ét positionelt argument og to nøgleordsargumenter
 
